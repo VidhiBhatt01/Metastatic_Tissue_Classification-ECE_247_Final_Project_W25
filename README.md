@@ -25,6 +25,7 @@ The project is organized into the following main folders:
   - EfficientNet
   - InceptionNet
   - GradCAM
+  - ViT
 
 ---
 
